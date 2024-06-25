@@ -1,0 +1,12 @@
+.mainPart 
+{
+    display: flex;
+    height: 100vh;
+    
+}
+
+.d
+{
+    background: lightcoral;
+    width: 100%;
+}
