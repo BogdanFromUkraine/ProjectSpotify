@@ -1,0 +1,18 @@
+.main
+{
+    display: flex;
+    justify-content: space-between; 
+}
+
+.main_left
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.block 
+{
+    display: flex;
+    justify-content: space-between;
+}
