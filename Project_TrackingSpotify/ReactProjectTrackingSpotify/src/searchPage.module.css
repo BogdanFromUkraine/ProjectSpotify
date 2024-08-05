@@ -1,0 +1,16 @@
+.content 
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.hint
+{
+    width: 200px;
+}
+
+.main_data 
+{
+    display: flex;
+    flex-direction: column;
+}
